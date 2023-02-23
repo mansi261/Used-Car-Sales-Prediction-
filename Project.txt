@@ -1,0 +1,14 @@
+working Code		25/25
+
+Code Quality		10/10
+
+Size			7/10
+
+Analysis		20/25
+	How much were prices higher than estimated? What about inflation
+Writeup			23/25
+	You said your data was to 2020, but the pandemic did not start until 2020. Describe the data set better.
+ReadMe			5/5
+
+
+Total			/100
